@@ -1,0 +1,8 @@
+By downloading this plugin you acknolwedge to the following:
+
+I am aware this has only been tested on an official Pocketmine-MP build.
+I will not resell/publish this plugin without permission.
+I will not ask for a refund. 
+I am aware this plugin will only work for PHP7.
+I will not edit this plugin and relase/claim it as my own without permission.
+I am aware the seller (@JunkdudeHD on twitter) has the final say.
